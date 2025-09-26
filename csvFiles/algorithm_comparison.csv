@@ -1,0 +1,7 @@
+Dataset,Algorithm,Accuracy,Precision,Recall,F1-Score
+Heart Disease,Decision Tree,0.8479,0.7971,0.8479,0.7846
+Heart Disease,Random Forest,0.6498,0.7853,0.6498,0.6961
+Heart Disease,MLP,0.8479,0.7971,0.8479,0.7846
+News Popularity,Decision Tree,0.6185,0.7756,0.6185,0.6720
+News Popularity,Random Forest,0.5892,0.8432,0.5892,0.6712
+News Popularity,MLP,0.6899,0.7024,0.6899,0.6583
