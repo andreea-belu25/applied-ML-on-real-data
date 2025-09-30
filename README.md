@@ -1,7 +1,8 @@
 # ML Classification: News Popularity & Heart Disease Risk
 
 Machine learning classification pipeline comparing Decision Trees, Random Forests, and Multi-Layer Perceptrons on two real-world datasets with comprehensive exploratory data analysis and visual diagnostics.
-* A more comprehensive documentation can be found in ... .
+
+A more comprehensive documentation can be found in ... .
   
 ## Datasets
 
