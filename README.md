@@ -1,7 +1,8 @@
 # ML Classification: News Popularity & Heart Disease Risk
 
 Machine learning classification pipeline comparing Decision Trees, Random Forests, and Multi-Layer Perceptrons on two real-world datasets with comprehensive exploratory data analysis and visual diagnostics.
-
+* A more comprehensive documentation can be found in ... .
+  
 ## Datasets
 
 **Online News Popularity** (39,644 articles, 64 features)
@@ -12,7 +13,7 @@ Machine learning classification pipeline comparing Decision Trees, Random Forest
 - Binary classification: 10-year CHD risk prediction
 - Features: demographics, vital signs, metabolic indicators, lifestyle, medical history
 
-## 🔍 Analysis Pipeline
+## Analysis Pipeline
 
 ### 1. Exploratory Data Analysis
 - Statistical summaries with **boxplots** for continuous variables
